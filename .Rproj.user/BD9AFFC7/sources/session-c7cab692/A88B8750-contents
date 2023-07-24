@@ -3,11 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "kanishkamanna.github.io"
+  title: "KANISHKA MANNA"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: home
       - about.qmd
 
 format:
