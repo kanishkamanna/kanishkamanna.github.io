@@ -13,14 +13,19 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/kanishkamanna
+    - icon: document
+      text: Resume
+      href: CV/kanishkamanna_resume.pdf
     - icon: envelope
       text: Email
       href: mailto:kanishka.manna@gmail.com 
 ---
 
-I am a Bioinformatics PhD candidate at the University of Arkansas at Little Rock (UALR) and the University of Arkansas for Medical Sciences (UAMS). My research focuses on multi-omics, epigenetics and microbiome. Currently, I am developing a proteogenomics pipeline for the detection of proteoforms. I am passionate about bridging the gap between biology and bioinformatics, having worked in both experimental lab and computer science roles. When I am not busy detecting bugs, you can find me outside on a trail or camping.
+#### Hi there! I'm Kanishka.
 
-This website is an introduction to who I am, providing a summary of my background and my research.
+I'm a Bioinformatics PhD candidate at the University of Arkansas Little Rock (UALR) and the University of Arkansas for Medical Sciences (UAMS). Presently, my PhD research focuses on developing a reproducible pipeline for multi-omics research through curation, integration and annotation of biological big data. I'm passionate about bridging the gap between biology and bioinformatics, having worked in both experimental lab and computer science roles. Outside of work, I'm an avid hiker, backcountry backpacker and an amateur watercolor illustrator.
 
-```{}
+Poke around my website to learn more!
+
+```         
 ```

@@ -3,15 +3,25 @@ project:
   output-dir: docs
 
 website:
-  title: "KANISHKA MANNA"
+  #site-url: https://kanishkamanna.github.io
+  title: "kanishka manna"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: home
-      - about.qmd
+      - href: about.qmd
+        text: bio
+      - href: CV/kanishkamanna_CV.pdf
+        text: cv
+  page-footer:
+    background: light
+    left: Copyright 2023, Kanishka Manna
+    
 
 format:
   html:
+    page-layout: full
+    sidebar: false
     theme: cosmo
     css: styles.css
     toc: true
