@@ -24,4 +24,4 @@ about:
 
 Hi there, I'm Kanishka! I'm a Bioinformatics PhD candidate at the University of Arkansas Little Rock (UALR) and the University of Arkansas for Medical Sciences (UAMS). Presently, my PhD research focuses on developing a reproducible pipeline for multi-omics research through curation, integration and annotation of biological big data. I'm passionate about bridging the gap between biology and bioinformatics, having worked in both experimental lab and computer science roles. Outside of work, I'm an avid hiker, backcountry backpacker and an amateur watercolor illustrator.
 
-Want to know more [about me](https://kanishkamanna.github.io/about.md)?
+Want to know more [about me](https://kanishkamanna.github.io/about.html)?
