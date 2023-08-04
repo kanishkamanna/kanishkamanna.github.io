@@ -6,7 +6,7 @@ shortcodes:
   - socials.lua
 about: 
   template: trestles
-  image-shape: rounded
+  image-shape: round
   image-width: 20em
 ---
 
