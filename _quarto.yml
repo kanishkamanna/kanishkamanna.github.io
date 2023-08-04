@@ -3,27 +3,38 @@ project:
   output-dir: docs
 
 website:
-  #site-url: https://kanishkamanna.github.io
   title: "kanishka manna"
+  search: false
   navbar:
     right:
-      - href: index.qmd
-        text: home
       - href: about.qmd
-        text: bio
+        text: about me
       - href: CV/kanishkamanna_CV.pdf
         text: cv
   page-footer:
-    background: light
-    left: Copyright 2023, Kanishka Manna
-    
+    left: "© 2023 Kanishka Manna"
+    right: 
+       - icon: linkedin
+         href: https://www.linkedin.com/in/kanishka-manna/
+       - icon: github
+         href: https://github.com/kanishkamanna
+       - text: <i class="ai ai-orcid" role="img"></i>
+         href: https://orcid.org/0000-0003-3927-5004
+       - text: <i class="ai ai-google-scholar" role="img"></i>
+         href: https://scholar.google.com/citations?user=jc_Lzu4AAAAJ&hl=en
+       - icon: envelope
+         href: mailto:kanishka.manna@gmail.com
 
 format:
   html:
     page-layout: full
     sidebar: false
-    theme: cosmo
-    css: styles.css
+    theme: 
+       - cosmo
+       - brown-theme.scss
+    css: 
+       - styles.css
+       - academicons.css
     toc: true
 
 editor: visual

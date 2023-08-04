@@ -1,31 +1,27 @@
 ---
 title: ""
-image: images/kanishka-manna.jpg
+image: static/img/km-profile.jpg
 toc: false
+shortcodes: 
+  - socials.lua
 about: 
-  template: jolla
-  image-shape: round
-  image-width: 14em
-  links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/kanishka-manna/
-    - icon: github
-      text: GitHub
-      href: https://github.com/kanishkamanna
-    - icon: document
-      text: Resume
-      href: CV/kanishkamanna_resume.pdf
-    - icon: envelope
-      text: Email
-      href: mailto:kanishka.manna@gmail.com 
+  template: trestles
+  image-shape: rounded
+  image-width: 20em
 ---
 
-#### Hi there! I'm Kanishka.
+# Kanishka Manna
 
-I'm a Bioinformatics PhD candidate at the University of Arkansas Little Rock (UALR) and the University of Arkansas for Medical Sciences (UAMS). Presently, my PhD research focuses on developing a reproducible pipeline for multi-omics research through curation, integration and annotation of biological big data. I'm passionate about bridging the gap between biology and bioinformatics, having worked in both experimental lab and computer science roles. Outside of work, I'm an avid hiker, backcountry backpacker and an amateur watercolor illustrator.
+{{< linkedin kanishka-manna >}}
 
-Poke around my website to learn more!
+{{< github kanishkamanna >}}
 
-```         
-```
+{{< scholar jc_Lzu4AAAAJ&hl >}}
+
+{{< orcid 0000-0003-3927-5004 >}}
+
+{{< mail kanishka.manna >}}
+
+Hi there, I'm Kanishka! I'm a Bioinformatics PhD candidate at the University of Arkansas Little Rock (UALR) and the University of Arkansas for Medical Sciences (UAMS). Presently, my PhD research focuses on developing a reproducible pipeline for multi-omics research through curation, integration and annotation of biological big data. I'm passionate about bridging the gap between biology and bioinformatics, having worked in both experimental lab and computer science roles. Outside of work, I'm an avid hiker, backcountry backpacker and an amateur watercolor illustrator.
+
+Want to know more [about me](https://kanishkamanna.github.io/about.md)?
