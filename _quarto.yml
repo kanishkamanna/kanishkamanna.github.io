@@ -3,14 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "kanishka manna"
+  title: "KANISHKA MANNA"
   search: false
   navbar:
     right:
       - href: about.qmd
-        text: about me
+        text: About Me
       - href: CV/kanishkamanna_CV.pdf
-        text: cv
+        text: CV
   page-footer:
     left: "© 2023 Kanishka Manna"
     right: 
