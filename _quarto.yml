@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "KANISHKA MANNA"
+  title: "Kanishka Manna"
   search: false
   navbar:
     right:
