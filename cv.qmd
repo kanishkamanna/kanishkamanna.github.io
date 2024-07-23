@@ -5,7 +5,7 @@ execute:
   echo: false
 ---
 
-[Download CV](https://kanishkamanna.github.io/CV/kanishkamanna_cv.pdf)
+[Download CV](CV/kanishkamanna_cv.pdf)
 
 ![](CV/Kanishka-Manna-visualCV.png)
 
