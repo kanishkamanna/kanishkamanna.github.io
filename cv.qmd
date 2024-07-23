@@ -1,0 +1,12 @@
+---
+title: ""
+title-block-banner: true
+execute: 
+  echo: false
+---
+
+[Download CV](https://kanishkamanna.github.io/CV/kanishkamanna_cv.pdf)
+
+![](CV/Kanishka-Manna-visualCV.png)
+
+

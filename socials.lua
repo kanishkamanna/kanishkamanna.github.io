@@ -18,7 +18,7 @@ function orcid(handle)
   return pandoc.RawBlock('html', output)
 end
 
-function mailto(handle)
-  local output = '<a rel="me" href="' .. pandoc.utils.stringify(url) ..'"><i class="bi bi-mailto"></i></a>'
-  return pandoc.RawBlock('html', output)
-end
+--function mailto(handle)
+--  local output = '<a rel="me" href="' .. pandoc.utils.stringify(url) ..'"><i class="bi bi-mailto"></i></a>'
+--  return pandoc.RawBlock('html', output)
+--end

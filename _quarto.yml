@@ -8,11 +8,13 @@ website:
   navbar:
     right:
       - href: about.qmd
-        text: About Me
-      - href: CV/kanishkamanna_CV.pdf
-        text: CV
+        text: about me
+      - href: research.qmd
+        text: research
+      - href: cv.qmd
+        text: cv
   page-footer:
-    left: "© 2023 Kanishka Manna"
+    left: "© 2024 Kanishka Manna"
     right: 
        - icon: linkedin
          href: https://www.linkedin.com/in/kanishka-manna/

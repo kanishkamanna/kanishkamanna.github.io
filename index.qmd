@@ -10,7 +10,15 @@ about:
   image-width: 20em
 ---
 
-# Kanishka Manna
+## Welcome!
+
+My name is Kanishka *(Kuh-nish-ka)*. I am a Bioinformatics Scientist who lives at the intersection between big data and biology. I'm interested in applying concepts from computer and data science in bioinformatics and beyond! I believe in open science, open source software, and reproducible data analysis. 
+
+I graduated with a PhD. (Bioinformatics) from the Joint Bioinformatics Program at the University of Arkansas, Little Rock (UALR) and the University of Arkansas for Medical Sciences (UAMS). My Doctoral research focused on the development of a reproducible pipeline for multi-omics research through curation, integration and annotation of biological big data. I'm an incoming Postdoctoral Scholar in the Nevada Bioinformatics Center at the University of Nevada, Reno. 
+
+Outside of work, I'm an avid hiker, backcountry backpacker and an amateur watercolor illustrator.
+
+While you're here feel free to learn more [about me](https://kanishkamanna.github.io/about.html) or peek into my [research](https://kanishkamanna.github.io/research.html).
 
 {{< linkedin kanishka-manna >}}
 
@@ -19,9 +27,3 @@ about:
 {{< scholar jc_Lzu4AAAAJ&hl >}}
 
 {{< orcid 0000-0003-3927-5004 >}}
-
-{{< mail kanishka.manna >}}
-
-Hi there, I'm Kanishka! A Bioinformatics Scientist who lives at the intersection between big data and biology. I'm interested in applying concepts from computer and data science in bioinformatics and beyond! I believe in open science, open source software, and reproducible data analysis. I'm an incoming Postdoctoral Scholar at the University of Nevada, Reno. I graduated with a PhD. (Bioinformatics) from the Joint Bioinformatics Program at the University of Arkansas, Little Rock (UALR) and the University of Arkansas for Medical Sciences (UAMS). My Doctoral research focused on the development of a reproducible pipeline for multi-omics research through curation, integration and annotation of biological big data. Outside of work, I'm an avid hiker, backcountry backpacker and an amateur watercolor illustrator.
-
-While you're here feel free to learn more [about me](https://kanishkamanna.github.io/about.html). 
