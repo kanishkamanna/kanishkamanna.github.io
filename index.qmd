@@ -5,20 +5,18 @@ toc: false
 shortcodes: 
   - socials.lua
 about: 
-  template: trestles
-  image-shape: round
-  image-width: 20em
+  template: solana
+  image-shape: rectangle
+  image-width: 25em
 ---
 
 ## Welcome!
 
-My name is Kanishka *(Kuh-nish-ka)*. I am a Bioinformatics Scientist who lives at the intersection between big data and biology. I'm interested in applying concepts from computer and data science in bioinformatics and beyond! I believe in open science, open source software, and reproducible data analysis. 
+My name is Kanishka and I am a Postdoctoral Scholar in the [Nevada Bioinformatics Center](https://www.unr.edu/bioinformatics/contact/kanishka-manna) at the **University of Nevada, Reno**. My research interest is multi-omics research. I am passionate about bridging biology and bioinformatics by combining analytical rigor with creative problem-solving to address complex biological questions. My expertise spans proteogenomics, next-generation omics, and microbiome research. In my work, I routinely apply computational and statistical methods to uncover novel biological mechanisms, identify biomarkers, and enhance our understanding of the systems biology. 
 
-I graduated with a PhD. (Bioinformatics) from the Joint Bioinformatics Program at the University of Arkansas, Little Rock (UALR) and the University of Arkansas for Medical Sciences (UAMS). My Doctoral research focused on the development of a reproducible pipeline for multi-omics research through curation, integration and annotation of biological big data. I'm an incoming Postdoctoral Scholar in the Nevada Bioinformatics Center at the University of Nevada, Reno. 
+I completed my _Ph.D._ in _Bioinformatics_ with _Dr. Stephanie Byrum_ at the **University of Arkansas at Little Rock (UALR)** and the **University of Arkansas for Medical Sciences (UAMS)**. My doctoral research centered on developing a reproducible workflow for proteogenomics research by integrating genomics, transcriptomics, and proteomics data. Before that, I earned both my _M.Sc._ and _B.Sc._ degrees in _Microbiology_ from **Vijaygarh Jyotish Ray College**, affiliated with the University of Calcutta.
 
-Outside of work, I'm an avid hiker, backcountry backpacker and an amateur watercolor illustrator.
-
-While you're here feel free to learn more [about me](https://kanishkamanna.github.io/about.html) or peek into my [research](https://kanishkamanna.github.io/research.html).
+When I am not in the lab, you can find me enjoying a wide variety of outdoor activities, especially hiking and camping. I also have a deep passion for watercolor illustrations and photography.
 
 {{< linkedin kanishka-manna >}}
 

@@ -1,5 +1,42 @@
 ---
-title: "Research"
+title: "Let's Talk Science!"
 title-block-banner: true
 ---
+### 2022 - 2023
+##### Short-Term Metformin Treatment Enriches _Bacteroides dorei_ in an Obese Liver Steatosis Zucker Rat Model
+_Frontiers in Microbiology_
 
+**Abstract:**
+Obesity is the leading cause of health-related diseases in the United States and World. Previously, we reported that obesity can change gut microbiota using the Zucker rat model. Metformin is an oral anti-hyperglycemic agent approved by the FDA to treat type 2 diabetes (T2D) in adults and children older than 10 years of age. The correlation of short-term metformin treatment and specific alterations to the gut microbiota in obese models is less known. Short-term metformin has been shown to reduce liver steatosis. Here we investigate the effects of short-term metformin treatment on population of gut microbiota profile in an obese rat model. Five week old obese (n = 12) female Zucker rats after 1 week of acclimation, received AIN-93 G diet for 8 weeks and then rats were randomly assigned into two groups (6 rats/group): (1) obese without metformin (ObC), or (2) obese with metformin (ObMet). Metformin was mixed with AIN-93G diet at 1,000 mg/kg of diet. Rats were weighed twice per week. All rats were sacrificed at the end of metformin treatment at 10 weeks and fecal samples were collected and kept at −80°C. Total microbial DNA was collected directly from the fecal samples used for shotgun-metagenomics sequencing and subsequently analyzed using MetaPlAn and HUMAnN. After stringent data filtering and quality control we found significant differences (p = 0.0007) in beta diversity (Aitchison distances) between the ObC vs. ObMet groups. Supervised and unsupervised analysis of the log-ratios Bacteroides dorei and B. massiliensis vs. all other Bacteroides spp., revealed that B. dorei and B. massiliensis were enriched in the ObMet group, while the remaining Bacteroides spp. where enriched in the ObC group (p = 0.002). The contributional diversity of pathways is also significantly associated by treatment group (p = 0.008). In summary, in the obese Zucker rat model, short-term metformin treatment changes the gut microbiota profile, particularly altering the composition Bacteroides spp. between ObC and ObMet.
+
+<p align="center">
+ <img width= "900" height= "800" src="images/2023_short-term_metformin_fig5.png">
+</p>
+
+**Associated Publication:** [https://doi.org/10.3389/fmicb.2022.834776](https://doi.org/10.3389/fmicb.2022.834776)
+
+### 2021 - 2022
+##### Proteogenomics analysis to identify acquired resistance-specific alterations in melanoma PDXs on MAPKi therapy
+_bioRxiv (Preprint)_
+
+**Abstract:**
+Therapeutic approaches to treat melanoma include small molecule drugs that target activating protein mutations in pro-growth signaling pathways like the MAPK pathway. While beneficial to the approximately 50% of patients with activating BRAFV600 mutation, mono- and combination therapy with MAPK inhibitors is ultimately associated with acquired resistance. To better characterize the mechanisms of MAPK inhibitor resistance in melanoma, we utilize patient-derived xenografts and apply proteogenomic approaches leveraging genomic, transcriptomic, and proteomic technologies that permit the identification of resistance-specific alterations and therapeutic vulnerabilities. A specific challenge for proteogenomic applications comes at the level of data curation to enable multi-omics data integration. Here, we present a proteogenomic approach that uses custom curated databases to identify unique resistance-specific alternations in melanoma PDX models of acquired MAPK inhibitor resistance. We demonstrate this approach with a NRASQ61L melanoma PDX model from which resistant tumors were developed following treatment with a MEK inhibitor. Our multi-omics strategy addresses current challenges in bioinformatics by leveraging development of custom curated proteogenomics databases derived from individual resistant melanoma that evolves following MEK inhibitor treatment and is scalable to comprehensively characterize acquired MAPK inhibitor resistance across patient-specific models and genomic subtypes of melanoma.
+
+<p align="center">
+ <img width= "800" height= "800" src="images/2022_proteogenomics_pdx_fig4.png">
+</p>
+
+**Associated Publication:** [https://www.biorxiv.org/content/10.1101/2022.02.15.480454v1.full](https://www.biorxiv.org/content/10.1101/2022.02.15.480454v1.full) (first author)
+
+### 2020 - 2021
+##### Multi-omics data integration reveals correlated regulatory features of triple negative breast cancer
+_Molecular omics_
+
+**Abstract:**
+Triple negative breast cancer (TNBC) is an aggressive type of breast cancer with very little treatment options. TNBC is very heterogeneous with large alterations in the genomic, transcriptomic, and proteomic landscapes leading to various subtypes with differing responses to therapeutic treatments. We applied a multi-omics data integration method to evaluate the correlation of important regulatory features in TNBC BRCA1 wild-type MDA-MB-231 and TNBC BRCA1 5382insC mutated HCC1937 cells compared with non-tumorigenic epithelial breast MCF10A cells. The data includes DNA methylation, RNAseq, protein, phosphoproteomics, and histone post-translational modification. Data integration methods identified regulatory features from each omics method that had greater than 80% positive correlation within each TNBC subtype. Key regulatory features at each omics level were identified distinguishing the three cell lines and were involved in important cancer related pathways such as TGFβ signaling, PI3K/AKT/mTOR, and Wnt/beta-catenin signaling. We observed overexpression of PTEN, which antagonizes the PI3K/AKT/mTOR pathway, and MYC, which downregulates the same pathway in the HCC1937 cells relative to the MDA-MB-231 cells. The PI3K/AKT/mTOR and Wnt/beta-catenin pathways are both downregulated in HCC1937 cells relative to MDA-MB-231 cells, which likely explains the divergent sensitivities of these cell lines to inhibitors of downstream signaling pathways. The DNA methylation and RNAseq data is freely available via GEO GSE171958 and the proteomics data is available via the ProteomeXchange PXD025238.\
+
+<p align="center">
+ <img width= "500" height= "250" src="images/2021_multi-omics_graphical_abstract.png">
+</p>
+
+**Associated Publication:** [https://doi.org/10.1039/D1MO00117E](https://doi.org/10.1039/D1MO00117E) (first author)

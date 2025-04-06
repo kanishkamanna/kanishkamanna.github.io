@@ -12,9 +12,9 @@ website:
       - href: research.qmd
         text: research
       - href: cv.qmd
-        text: cv
+        text: curriculum vitae
   page-footer:
-    left: "© 2024 Kanishka Manna"
+    left: "© 2025 Kanishka Manna"
     right: 
        - icon: linkedin
          href: https://www.linkedin.com/in/kanishka-manna/
@@ -23,7 +23,7 @@ website:
        - text: <i class="ai ai-orcid" role="img"></i>
          href: https://orcid.org/0000-0003-3927-5004
        - text: <i class="ai ai-google-scholar" role="img"></i>
-         href: https://scholar.google.com/citations?user=jc_Lzu4AAAAJ&hl=en
+         href: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=eA7tddMAAAAJ
        - icon: envelope
          href: mailto:kanishka.manna@gmail.com
 

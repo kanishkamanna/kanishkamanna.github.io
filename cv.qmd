@@ -5,8 +5,10 @@ execute:
   echo: false
 ---
 
-[Download CV](./CV/kanishkamanna_cv.pdf)
+[Download CV](https://github.com/kanishkamanna/kanishkamanna.github.io/blob/main/CV/kanishkamanna_CV.pdf)
 
-![](CV/Kanishka-Manna-visualCV.png)
+<p align="center">
+ <img width= "1440" height= "720" src="CV/Kanishka-Manna-visualCV.png">
+</p>
 
 
